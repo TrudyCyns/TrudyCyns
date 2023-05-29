@@ -1,11 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Make+everyday+count!;Tomorrow+is+not+guaranteed!;Enjoy+right+now!)](https://git.io/typing-svg)
 
-I am Gertrude Nabasirye (Trudy). I am a software engineery, curious and eager to learn. I love to read, and to write articles that demistify topics for others. I am currently learning about Web3 and Blocjchain Development.
+I am Gertrude Nabasirye (Trudy). I am a software engineer, curious and eager to learn. I love to read, and to write articles that demistify topics for others. I am currently learning about Web3 and Blocjchain Development.
 
 ---
 ## A quick introduction
 - I am currently learning Solididty.
-- I am reading Piranha by Clive Cussler & Boyd Morrison.
 
 ---
 ## Connect | Follow
