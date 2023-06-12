@@ -39,4 +39,6 @@ I am Gertrude Nabasirye (Trudy). I am a software engineer, curious and eager to 
 
 ---
 
-[![Gertrude's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrudyCyns&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Gertrude's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrudyCyns&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrudyCyns&theme=tokyonight)
