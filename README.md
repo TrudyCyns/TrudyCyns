@@ -1,10 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Make+everyday+count!;Tomorrow+is+not+guaranteed!;Enjoy+right+now!)](https://git.io/typing-svg)
 
-I am Gertrude Nabasirye (Trudy). I am a software engineer, curious and eager to learn. I love to read, and to write articles that demistify topics for others. I am currently learning about Web3 and Blocjchain Development.
+I am Trudy. I am a software engineer, curious and eager to learn. I love to read. I am currently learning about Web3 and Blockchain Development.
 
 ---
 ## A quick introduction
-- I am currently learning Solididty.
+- I am currently learning Solidity.
 
 ---
 ## Connect | Follow
@@ -41,4 +41,6 @@ I am Gertrude Nabasirye (Trudy). I am a software engineer, curious and eager to 
 
 [![Gertrude's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrudyCyns&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrudyCyns&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TrudyCyns&theme=tokyonight&layout=compact)
+
+[![Gertrude's Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TrudyCyns&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
